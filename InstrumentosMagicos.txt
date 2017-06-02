@@ -1,4 +1,4 @@
-Caldero de oro para posiones.
+Caldero de titano para posiones (para qu sopore el ácido de estómago de dragón).
 Depurador
 Compilador
 Interprete
