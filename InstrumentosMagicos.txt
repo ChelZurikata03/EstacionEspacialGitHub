@@ -1,4 +1,4 @@
-Caldero de cobre para posiones.
+Caldero de oro para posiones.
 Depurador
 Compilador
 Interprete
