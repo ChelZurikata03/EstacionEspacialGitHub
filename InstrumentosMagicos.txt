@@ -1,4 +1,4 @@
-Caldero de titano para posiones (para qu sopore el ácido de estómago de dragón).
+Caldero de titano para posiones (para que soporte el ácido de estómago de dragón).
 Depurador
 Compilador
 Interprete
